@@ -11,8 +11,6 @@
 
 - 📝 I semi-regularly write malware research on [https://dreamsec.club/research/](https://dreamsec.club/research/)
 
-- ⚡ Fun fact [everything is vulnerable in time](everything is vulnerable in time)
-
 - 💬 Ask me about **the internet**
 
 - 📫 How to reach me **https://dreamsec.club/**
