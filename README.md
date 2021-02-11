@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **cpu architectures**
 
-- 📝 I regularly write malware research on [https://dreamsec.club/research/](https://dreamsec.club/research/)
+- 📝 I semi-regularly write malware research on [https://dreamsec.club/research/](https://dreamsec.club/research/)
 
 - ⚡ Fun fact [everything is vulnerable in time](everything is vulnerable in time)
 
