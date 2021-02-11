@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [operating systems](https://github.com/Maddoxk/OperatingSystem)
 
-- 🌱 I’m currently learning **networking exploits**
+- 🌱 I’m currently learning **modern encyption**
 
 - 👯 I’m looking to collaborate on **malware research**
 
-- 🤝 I’m looking for help with **modern architectures**
+- 🤝 I’m looking for help with **cpu architectures**
 
 - 📝 I regularly write malware research on [https://dreamsec.club/research/](https://dreamsec.club/research/)
 
