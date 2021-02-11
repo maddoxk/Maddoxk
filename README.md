@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maddox K</h1>
-<h3 align="center">Cyber Security Speacialist, Malware Analysist, Low and High Level Developer.</h3>
+<h3 align="center">Internet Speacialist, Malware Analysist, Low and High Level Developer.</h3>
 
 - 🔭 I’m currently working on [operating systems](https://github.com/Maddoxk/OperatingSystem)
 
