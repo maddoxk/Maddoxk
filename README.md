@@ -9,16 +9,11 @@
 
 - 🤝 I’m looking for help with **cpu architectures**
 
-- 📝 I semi-regularly write malware research on [https://dreamsec.club/research/](https://dreamsec.club/research/)
-
 - 💬 Ask me about **the internet**
-
-- 📫 How to reach me **https://dreamsec.club/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/maddox_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maddox_k" height="30" width="40" /></a>
-<a href="/https://dreamsec.club" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://dreamsec.club" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
