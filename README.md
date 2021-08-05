@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maddox K</h1>
-<h3 align="center">Internet Speacialist, Malware Analysist, Low and High Level Developer.</h3>
+<h3 align="center">Internet Specialist, Malware Analysist, Low and High Level Developer.</h3>
 
 - 🔭 I’m currently working on [operating systems](https://github.com/Maddoxk/OperatingSystem)
 
@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on **malware research**
 
 - 🤝 I’m looking for help with **cpu architectures**
-
+ 
+ - Im gay
 - 💬 Ask me about **the internet**
 
 <h3 align="left">Connect with me:</h3>
