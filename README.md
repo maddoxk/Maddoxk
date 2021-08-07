@@ -9,7 +9,6 @@
 
 - 🤝 I’m looking for help with **cpu architectures**
  
- - Im gay
 - 💬 Ask me about **the internet**
 
 <h3 align="left">Connect with me:</h3>
