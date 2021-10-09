@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maddox K</h1>
 <h3 align="center">Internet Specialist, Malware Analysist, Low and High Level Developer.</h3>
 
-- 🔭 I’m currently working on [Java](https://github.com/Maddoxk/java) [ATM](https://github.com/Maddoxk/ATM)
+- 🔭 I’m currently working on [Java](https://github.com/Maddoxk/java) -> [ATM](https://github.com/Maddoxk/Java_ATM)
 
 - 🌱 I’m currently learning **modern encyption**
 
