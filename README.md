@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maddox K</h1>
 <h3 align="center">Internet Specialist, Malware Analysist, Low and High Level Developer.</h3>
 
-- 🔭 I’m currently working on [Infoget.me](https://infoget/me)
+- 🔭 I’m currently working on [Seclusion](https://github.com/SeclusionApp/seclusion)
 
 - 🌱 I’m currently learning **modern encyption**
 
