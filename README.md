@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maddox K</h1>
 <h3 align="center">Internet Specialist, Malware Analysist, Low and High Level Developer.</h3>
 
-- 🔭 I’m currently working on [Seclusion](https://github.com/SeclusionApp/seclusion)
+- 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m currently learning **modern encyption**
+- 🌱 I’m currently learning **artificial intelligence**
 
 - 👯 I’m looking to collaborate on **malware research**
 
