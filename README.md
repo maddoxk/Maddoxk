@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **blockchain technologies**
 
 - 👯 I’m looking to collaborate on **malware research**
 
