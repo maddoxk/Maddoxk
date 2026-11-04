@@ -144,6 +144,11 @@ I build high-throughput distributed systems, financial exchange engines, and low
 ### ⚡ Recent Public Activity
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#11](https://github.com/maddoxk/cpp-limit-order-book/issues/11) in [maddoxk/cpp-limit-order-book](https://github.com/maddoxk/cpp-limit-order-book)
+2. 🎉 Merged PR [#12](https://github.com/maddoxk/cpp-limit-order-book/pull/12) in [maddoxk/cpp-limit-order-book](https://github.com/maddoxk/cpp-limit-order-book)
+3. 🔒 Closed issue [#50](https://github.com/maddoxk/Chain-Market-Price/issues/50) in [maddoxk/Chain-Market-Price](https://github.com/maddoxk/Chain-Market-Price)
+4. 🗣 Commented on [#50](https://github.com/maddoxk/Chain-Market-Price/issues/50#issuecomment-6608406465) in [maddoxk/Chain-Market-Price](https://github.com/maddoxk/Chain-Market-Price)
+5. 🗣 Commented on [#7](https://github.com/maddoxk/cpp-limit-order-book/issues/7#issuecomment-6608404823) in [maddoxk/cpp-limit-order-book](https://github.com/maddoxk/cpp-limit-order-book)
 <!--END_SECTION:activity-->
 
 ---
