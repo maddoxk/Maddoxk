@@ -1,5 +1,5 @@
-# Copy into your profile repository as .github/workflows/koi.yml, then embed
-# <img src="koi/koi.gif" width="256" alt="My koi"> in its README.md.
+# Generates the daily pixel-art koi fish based on public commit activity.
+# Managed automatically via GitHub Actions (yalongwastaken/git-koi)
 name: Koi
 
 on:
@@ -13,13 +13,15 @@ on:
 permissions:
   contents: write
 
-concurrency: koi
+concurrency:
+  group: koi
+  cancel-in-progress: true
 
 jobs:
   koi:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@v4
       - uses: yalongwastaken/git-koi@v1
         with:
           body: white
@@ -34,5 +36,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --quiet --message "koi: draw the day's koi"
+          git commit --quiet --message "koi: draw the day's koi [skip ci]"
+          git pull --rebase --autostash
           git push --quiet
